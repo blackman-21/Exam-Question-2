@@ -1,0 +1,25 @@
+Movie: Napoleon
+Ticket Price: 150.00
+Number of Tickets: 3
+Total (incl. VAT): 513.00
+
+Movie: Oppenheimer
+Ticket Price: 250.00
+Number of Tickets: 3
+Total (incl. VAT): 855.00
+
+Movie: Napoleon
+Ticket Price: 120.00
+Number of Tickets: 4
+Total (incl. VAT): 547.20
+
+Movie: Napoleon
+Ticket Price: 123.00
+Number of Tickets: 35
+Total (incl. VAT): 4907.70
+
+Movie: Napoleon
+Ticket Price: 123.00
+Number of Tickets: 35
+Total (incl. VAT): 4907.70
+
